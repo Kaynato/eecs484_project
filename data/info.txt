@@ -1,0 +1,6 @@
+Each individual file has 100 examples.
+
+Train: 00 - 69
+Val  : 70 - 79
+Test : 80 - 99
+
